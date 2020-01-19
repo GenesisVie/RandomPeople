@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random People</string>
+    <string name="item_machin_description">Random people from API</string>
+</resources>
